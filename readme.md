@@ -2,9 +2,6 @@
 
 ----
 
-## List of Contents
-
-
 #### 1. What is your design process? Describe your thought process for every step in detail.
 Establishing requirements (existing system analysis,  user research and creating persona, create user journey mapping, create recap. of requirement exploration canvas), designing alternatives (create information architecture and design), prototyping, evaluating (usability testing and design evaluation).
 
